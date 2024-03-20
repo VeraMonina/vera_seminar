@@ -1,2 +1,5 @@
 print('a')
 print('f')
+x = 5
+for i in range x:
+    print('mama')
